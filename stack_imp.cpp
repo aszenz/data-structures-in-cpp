@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-#include "..\..\CustomFunctions\cliMenu.cpp"
+#include "../CustomFunctions/cliMenu.cpp"
 int getInput();
 #define max 10
 template<class T>
